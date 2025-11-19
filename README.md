@@ -17,7 +17,7 @@ Essa proposta não é apenas um conceito visual, mas um propósito:
 
 ---
 
-## 🎯 Próposito da Plataforma
+## 🎯 Propósito da Plataforma
 A Iara Games foi idealizada para ser um **ecossistema completo** que reúne jogadores, criadores e pequenas empresas nacionais. A plataforma permitirá **compra, venda e interação** totalmente indicadas às produções brasileiras, fortalecendo a cena independente e criando oportunidades reais para novos estúdios.
 
 Além disso, associar a marca à identidade folclórica Iara oferece uma base forte para a criação de uma identidade visual futura: algo moderno, imersivo e cheio de referências culturais brasileiras - exatamente o tipo de personalidade que diferencia a plataforma no mercado.
@@ -152,7 +152,11 @@ git clone https://guicunhasou.github.io/iara-games/
   </table>
 </p>
 
+---
 
+## 🎓 Projeto Acadêmico - ![FIAP](https://img.shields.io/badge/FIAP-ed145b?style=flat-rounded&logo=fiap)
+
+O Iara Games é um projeto desenvolvido para a FIAP, com o objetivo de aplicar conceitos de design, tecnologia e experiência do usuário em uma plataforma voltada ao mercado nacional de jogos independentes.
 
 
 
